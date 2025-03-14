@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Project\\PizzariaWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF388CF-A1B5-49C0-A6F1-6B4418DA8B91}|PizzariaWeb\\PizzariaWeb.csproj|c:\\users\\samue\\onedrive\\\u00E1rea de trabalho\\project\\pizzariaweb\\pizzariaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF388CF-A1B5-49C0-A6F1-6B4418DA8B91}|PizzariaWeb\\PizzariaWeb.csproj|solutionrelative:pizzariaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF388CF-A1B5-49C0-A6F1-6B4418DA8B91}|PizzariaWeb\\PizzariaWeb.csproj|c:\\users\\samue\\onedrive\\\u00E1rea de trabalho\\project\\pizzariaweb\\pizzariaweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DEF388CF-A1B5-49C0-A6F1-6B4418DA8B91}|PizzariaWeb\\PizzariaWeb.csproj|solutionrelative:pizzariaweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF388CF-A1B5-49C0-A6F1-6B4418DA8B91}|PizzariaWeb\\PizzariaWeb.csproj|c:\\users\\samue\\onedrive\\\u00E1rea de trabalho\\project\\pizzariaweb\\pizzariaweb\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF388CF-A1B5-49C0-A6F1-6B4418DA8B91}|PizzariaWeb\\PizzariaWeb.csproj|solutionrelative:pizzariaweb\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF388CF-A1B5-49C0-A6F1-6B4418DA8B91}|PizzariaWeb\\PizzariaWeb.csproj|c:\\users\\samue\\onedrive\\\u00E1rea de trabalho\\project\\pizzariaweb\\pizzariaweb\\pizzariaweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DEF388CF-A1B5-49C0-A6F1-6B4418DA8B91}|PizzariaWeb\\PizzariaWeb.csproj|solutionrelative:pizzariaweb\\pizzariaweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Project\\PizzariaWeb\\PizzariaWeb\\Program.cs",
+              "RelativeDocumentMoniker": "PizzariaWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Project\\PizzariaWeb\\PizzariaWeb\\Program.cs",
+              "RelativeToolTip": "PizzariaWeb\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:04:33.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Project\\PizzariaWeb\\PizzariaWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "PizzariaWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Project\\PizzariaWeb\\PizzariaWeb\\appsettings.json",
+              "RelativeToolTip": "PizzariaWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T15:04:25.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Project\\PizzariaWeb\\PizzariaWeb\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PizzariaWeb\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Project\\PizzariaWeb\\PizzariaWeb\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PizzariaWeb\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:52:10.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PizzariaWeb",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Project\\PizzariaWeb\\PizzariaWeb\\PizzariaWeb.csproj",
+              "RelativeDocumentMoniker": "PizzariaWeb\\PizzariaWeb.csproj",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Project\\PizzariaWeb\\PizzariaWeb\\PizzariaWeb.csproj",
+              "RelativeToolTip": "PizzariaWeb\\PizzariaWeb.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T14:47:31.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
